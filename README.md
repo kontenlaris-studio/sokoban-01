@@ -1,3 +1,11 @@
+<div align="center">
+<img src="assets/logo.png?v=1" width="280" alt="sokoban-01 logo">
+
+**Room-decomposed push-optimal A* Sokoban solver.**
+
+![TypeScript](https://img.shields.io/badge/language-TypeScript-0A1931?style=for-the-badge&labelColor=FF7A00) ![License MIT](https://img.shields.io/badge/license-MIT-0A1931?style=for-the-badge&labelColor=FF7A00) ![By Kontenlaris Studio](https://img.shields.io/badge/by-Kontenlaris_Studio-0A1931?style=for-the-badge&labelColor=FF7A00)
+</div>
+
 # Sokoban Solver
 
 Push-optimal Sokoban solver for make.fun's
